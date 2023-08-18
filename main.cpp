@@ -7,7 +7,7 @@
 #include "Vector3.h"
 #include <numbers>
 
-const char kWindowTitle[] = "LE2B_23_マスダリュウ";
+const char kWindowTitle[] = "LE2B_15_サカモトイクミ";
 
 const int kWindowWidth = 1280;
 const int kWindowHeight = 720;
